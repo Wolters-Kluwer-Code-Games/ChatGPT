@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import { TextInput, TouchableOpacity, View } from 'react-native';
 import { useState } from 'react';
 import {MaterialIcons} from '@expo/vector-icons'
 import { GiftedChat } from 'react-native-gifted-chat';
