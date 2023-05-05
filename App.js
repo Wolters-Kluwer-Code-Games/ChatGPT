@@ -28,7 +28,7 @@ export default function App() {
     console.log(text)
   }
 
-  // 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
+  
   return (
     <View style={styles.container}>
       <View style={{flex:1, justifyContent:"center"}}>
