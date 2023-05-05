@@ -12,7 +12,7 @@ export default function App() {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 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"
+        "Authorization": "Bearer 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"
       },
       body: JSON.stringify({
         "prompt": inputMessage,
