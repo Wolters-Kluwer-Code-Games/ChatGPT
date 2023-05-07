@@ -3,6 +3,7 @@ import { TextInput, TouchableOpacity, View } from 'react-native';
 import { useState } from 'react';
 import {MaterialIcons} from '@expo/vector-icons'
 import { GiftedChat } from 'react-native-gifted-chat';
+//import { Keyboard } from 'react-native'
 
 export default function App() {
 
@@ -45,6 +46,8 @@ export default function App() {
           GiftedChat.append(previousMessages, [message])
         )
     })
+    //setInputMessage(null)
+    //Keyboard.dismiss()
   }
 
   const handleTextInput = (text) => {
