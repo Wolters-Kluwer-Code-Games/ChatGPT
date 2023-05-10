@@ -27,7 +27,7 @@ export default function App() {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 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"
+        "Authorization": "Bearer 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"
       },
       body: JSON.stringify({
         "messages": [{"role": "user", "content": inputMessage}],

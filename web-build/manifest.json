@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "chatgpt",
+  "short_name": "chatgpt",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
